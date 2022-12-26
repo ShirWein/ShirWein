@@ -7,6 +7,8 @@
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies.
 - When I'm not coding, I 🏋️‍♀️ & 🚴‍♀️.
 
+** Looking for a job as a front-end developer **
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
