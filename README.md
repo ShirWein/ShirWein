@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Shir.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩‍💻&nbsp;About Me </h3>
 
 - 🤔 &nbsp; Driven by curiosity and passion.
 - 🤓 &nbsp; Love coding, technology and gadgets.
@@ -45,5 +45,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="https://www.linkedin.com/in/shir-weinbrand"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shir%20Weinbrand%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/shir-weinbrand"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shir%20Wein%20-blue?style=flat-square&logo=linkedin"></a>
 </p>
