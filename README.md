@@ -36,8 +36,8 @@
 <br/>
 
 <a href="https://github.com/ShirWein">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShirWein&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirWein&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShirWein&theme=synthwave&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirWein&theme=synthwave&layout=compact" />
 </a>
 
 <br/>
