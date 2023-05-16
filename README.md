@@ -1,6 +1,5 @@
 <h2> Hey there! I'm Shir. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<h5> Looking for a job as a front-end developer </h5>
 
 <h3> 👩‍💻&nbsp;About Me </h3>
 
