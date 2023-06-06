@@ -1,5 +1,8 @@
 <h2> Hey there! I'm Shir. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{ShirWein}/count.svg" alt="ShirWein :: Visitor's Count" /></p>
+
 
 <h3> 👩‍💻&nbsp;About Me </h3>
 
@@ -48,6 +51,4 @@
 <p>
 <a href="https://www.linkedin.com/in/shir-weinbrand"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shir%20Wein%20-blue?style=flat-square&logo=linkedin"></a>
 </p>
-<p>
-[![](https://vbr.wocr.tk/badge?page_id=ShirWein&text=Lovers&lcolor=ff4d6d&color=555555&style=for-the-badge&logo=Github)
-](https://camo.githubusercontent.com/04dcbd4955090b2998020111b0b8dd94884528f43aa694d1b2224062a0b3ce8f/68747470733a2f2f7662722e776f63722e746b2f62616467653f706167655f69643d76697369746f722d62616467652d72656c6f616465642d76697369746f7273266c636f6c6f723d66663464366426636f6c6f723d353535353535267374796c653d666c6174266c6f676f3d476974687562)
+
