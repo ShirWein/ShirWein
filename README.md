@@ -48,4 +48,5 @@
 
 <p>
 <a href="https://www.linkedin.com/in/shir-weinbrand"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shir%20Wein%20-blue?style=flat-square&logo=linkedin"></a>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 </p>
