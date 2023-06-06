@@ -49,5 +49,5 @@
 <a href="https://www.linkedin.com/in/shir-weinbrand"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shir%20Wein%20-blue?style=flat-square&logo=linkedin"></a>
 </p>
 <p>
-  <a href="https://vbr.wocr.tk/badge?page_id=ShirWein&lcolor=ff4d6d&color=555555&style=flat&logo=Github"><img alt="Visitors" src=""></a></p>
+  <a href="https://vbr.wocr.tk/badge?page_id=Shir_dev&lcolor=ff4d6d&color=555555&style=flat&logo=Github"><img alt="Visitors" src=""></a></p>
 
