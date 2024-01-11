@@ -46,9 +46,3 @@
 </a>
 
 <br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p>
-<a href="https://www.linkedin.com/in/shir-weinbrand"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shir%20Wein%20-blue?style=flat-square&logo=linkedin"></a>
-</p>
-
