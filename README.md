@@ -6,6 +6,8 @@
 
 <h3> 👩‍💻&nbsp;About Me </h3>
 
+- 👩🏼‍🎓 A Computational Social Sciences Researcher
+  * Research areas: `Computational social science`; `ML`; `NLP`; `Search engines`; `GenAI`; `News/Politics`.
 - 🤔 &nbsp; Driven by curiosity and passion.
 - 🤓 &nbsp; Love coding, technology and gadgets.
 - When I'm not coding, I 🏋️‍♀️ & ⚽️.
