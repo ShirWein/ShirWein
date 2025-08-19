@@ -8,8 +8,7 @@
 
 - 🤔 &nbsp; Driven by curiosity and passion.
 - 🤓 &nbsp; Love coding, technology and gadgets.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies.
-- When I'm not coding, I 🏋️‍♀️ & 🚴‍♀️.
+- When I'm not coding, I 🏋️‍♀️ & ⚽️.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
