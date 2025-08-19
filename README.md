@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Shir. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="[https://profile-counter.glitch.me/{ShirWein}/count.svg](https://komarev.com/ghpvc/?username=ShirWein" alt="ShirWein :: Visitor's Count" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ShirWein" alt="ShirWein :: Visitor's Count"/></p>
 
 
 <h3> 👩‍💻&nbsp;About Me </h3>
